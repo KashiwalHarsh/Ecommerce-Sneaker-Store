@@ -1,0 +1,14 @@
+.home{
+    flex: 4;
+}
+.topWidgets{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeWidgets{
+    display: flex;
+    margin: 20px;
+}
